@@ -2,3 +2,4 @@ pip
 python-dotenv
 ruff
 -e .
+open-cv
